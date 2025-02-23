@@ -1,6 +1,6 @@
 # String Art
 
-This C++ program generates String Art for a given input image in PNG format using [Dear ImGui](https://github.com/ocornut/imgui). The user can modify the input image to their liking by cropping and changing the darkness and constrast of the image. The number of nails on the circle and the number of lines to be drawn can also be specified. After the image is generated, the user can save the output image and a text file with the nail sequence.
+This C++ program generates String Art for a given input image in PNG format using [Dear ImGui](https://github.com/ocornut/imgui). The user can modify the input image to their liking by cropping and changing the darkness and constrast of the image. The number of nails on the circle and the number of lines to be drawn can also be specified. After the image is generated, the user can save the output image and a text file with the nail sequence. The applications only runs on Linux.
 
 ## Installation
 
